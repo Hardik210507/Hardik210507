@@ -24,7 +24,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,python,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=dart,python,c,html,css" />
 </p>
 
 ### Frameworks & Tools
