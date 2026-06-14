@@ -29,7 +29,7 @@
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,flask,git,github,vscode,antigravity" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode" />
 </p>
 
 ---
