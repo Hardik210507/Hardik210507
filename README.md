@@ -4,7 +4,7 @@
 
 ### IT Engineering Student • Python Developer • Flutter Developer • Full-Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Flutter+%26+Learner;Building+Real-World+Projects;Exploring+AI+%26+APIs;Learning+ML" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Flutter+%26+Dart+Learner;Building+Real-World+Projects;Exploring+AI+%26+APIs;Learning+ML" />
 
 </div>
 
