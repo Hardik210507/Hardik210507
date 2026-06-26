@@ -77,6 +77,4 @@ An AI-powered resume analyzer that evaluates resumes against job descriptions an
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:hardikmangs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge
